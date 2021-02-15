@@ -1,6 +1,6 @@
 # MikroTik
 Script MikroTik too Block spam
-This Script Donwload blacklist ip from various source to mikrotik, add raw firewall to "blacklist" address list 
+This Script Download blacklist ip from various source to MikroTik, add raw firewall to "blacklist" address list 
 
 The new parameter "output=user" provided new scripting capabilities that I decided to take full advantage of.
 - the script does not need third-party servers, since address lists are downloaded directly from the source and processed directly on the router.
