@@ -15,6 +15,4 @@ $update url=http://feeds.dshield.org/block.txt description=DShield delimiter=("\
 $update url=https://www.spamhaus.org/drop/drop.txt description="Spamhaus DROP" delimiter=("\_")
 $update url=https://www.spamhaus.org/drop/edrop.txt description="Spamhaus EDROP" delimiter=("\_")
 $update url=https://sslbl.abuse.ch/blacklist/sslipblacklist.txt description="Abuse.ch SSLBL" delimiter=("\r")
-$update url=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_1d.netset description="Abuser" delimiter=("\n")
-$update url=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nt_malware_http.ipset description="nt_malware" delimiter=("\n")
-$update url=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/snort_ipfilter.ipset description="Snort" delimiter=("\n")
+$update url=https://raw.githubusercontent.com/dioey/MikroTik/main/Snort description="Snort" delimiter=("\n")
