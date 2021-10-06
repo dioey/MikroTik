@@ -1,5 +1,5 @@
 # MikroTik
-MikroTik Script too Block spam
+MikroTik Script too Block spam,
 This Script Download blacklist ip from various source to MikroTik, add raw firewall to "blacklist" address list 
 
 The new parameter "output=user" provided new scripting capabilities that I decided to take full advantage of.
