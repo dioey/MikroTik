@@ -1,0 +1,938 @@
+# Indonesian geo-IP prefixes announced by NON-Indonesian ASNs
+# (NA / not-announced prefixes have been completely removed)
+# Source list : https://raw.githubusercontent.com/ipverse/geo-ip-blocks/refs/heads/master/country/id/id-ipv4.txt
+# Generated   : 2026-07-25 08:30:26
+# Format      : prefix  # ASXXXX  AS-Name  [ASN-CC]  [matched-BGP]
+#
+
+# === AS42  WOODYNET-1 - WoodyNet, Inc., US  (country: US) ===
+203.119.112.0/24  # AS42  WOODYNET-1 - WoodyNet, Inc., US  [US]  [203.119.112.0/24]
+
+# === AS174  COGENT-174 - Cogent Communications, LLC, US  (country: US) ===
+149.104.84.0/23  # AS174  COGENT-174 - Cogent Communications, LLC, US  [US]  [149.104.0.0/16]
+206.237.104.0/22  # AS174  COGENT-174 - Cogent Communications, LLC, US  [US]  [206.236.0.0/15]
+38.106.171.0/24  # AS174  COGENT-174 - Cogent Communications, LLC, US  [US]  [38.0.0.0/8]
+
+# === AS984  OWS-NETWORK - OCTOPUS WEB SOLUTION INC, US  (country: US) ===
+195.86.8.0/21  # AS984  OWS-NETWORK - OCTOPUS WEB SOLUTION INC, US  [US]  [195.86.8.0/24]
+
+# === AS2687  ATGS-MMD-AS - AT&T Enterprises, LLC, US  (country: US) ===
+202.2.232.0/22  # AS2687  ATGS-MMD-AS - AT&T Enterprises, LLC, US  [US]  [202.2.128.0/17]
+32.103.80.0/21  # AS2687  ATGS-MMD-AS - AT&T Enterprises, LLC, US  [US]  [32.103.0.0/16]
+
+# === AS2914  NTT-DATA-2914 - NTT America, Inc., US  (country: US) ===
+31.56.154.0/24  # AS2914  NTT-DATA-2914 - NTT America, Inc., US  [US]  [31.56.154.0/24]
+31.56.158.0/23  # AS2914  NTT-DATA-2914 - NTT America, Inc., US  [US]  [31.56.158.0/24]
+31.56.168.0/22  # AS2914  NTT-DATA-2914 - NTT America, Inc., US  [US]  [31.56.168.0/24]
+31.56.174.0/23  # AS2914  NTT-DATA-2914 - NTT America, Inc., US  [US]  [31.56.174.0/24]
+31.58.34.0/23  # AS2914  NTT-DATA-2914 - NTT America, Inc., US  [US]  [31.58.34.0/23]
+
+# === AS3257  GTT-BACKBONE - GTT Communications Inc., US  (country: US) ===
+67.220.144.96/28  # AS3257  GTT-BACKBONE - GTT Communications Inc., US  [US]  [67.220.128.0/19]
+67.220.158.176/28  # AS3257  GTT-BACKBONE - GTT Communications Inc., US  [US]  [67.220.128.0/19]
+
+# === AS3300  BT - British Telecommunications Limited, GB  (country: GB) ===
+206.182.193.208/28  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [206.182.192.0/18]
+206.182.201.160/27  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [206.182.192.0/18]
+206.182.202.0/24  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [206.182.192.0/18]
+206.182.212.32/27  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [206.182.192.0/18]
+206.182.231.208/28  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [206.182.192.0/18]
+206.182.235.96/27  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [206.182.192.0/18]
+207.117.156.0/26  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [207.117.0.0/16]
+207.117.156.128/25  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [207.117.0.0/16]
+207.117.157.0/24  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [207.117.0.0/16]
+207.209.199.0/24  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [207.209.0.0/16]
+207.209.57.0/24  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [207.209.0.0/16]
+209.28.254.128/27  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [209.28.0.0/16]
+209.28.53.224/27  # AS3300  BT - British Telecommunications Limited, GB  [GB]  [209.28.0.0/16]
+
+# === AS3758  SINGNET - SingNet, SG  (country: SG) ===
+203.127.1.0/28  # AS3758  SINGNET - SingNet, SG  [SG]  [203.127.0.0/16]
+
+# === AS4620  SOLONE-AS-AP - Sol One Anycast Delivery Network, SG  (country: SG) ===
+43.255.56.0/22  # AS4620  SOLONE-AS-AP - Sol One Anycast Delivery Network, SG  [SG]  [43.255.56.0/24]
+
+# === AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  (country: HK) ===
+202.47.200.0/22  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [202.47.200.0/24]
+202.47.204.0/24  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [202.47.204.0/24]
+202.47.208.0/22  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [202.47.208.0/24]
+202.47.212.0/23  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [202.47.212.0/24]
+202.47.214.0/24  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [202.47.214.0/24]
+203.192.158.0/23  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [203.192.128.0/18]
+210.176.142.0/24  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [210.176.142.0/24]
+210.57.8.0/22  # AS4637  ASN-TELSTRA-GLOBAL - Telstra Global, HK  [HK]  [210.57.8.0/22]
+
+# === AS4913  NET-CPRK - Speedcast Communications, Inc, US  (country: US) ===
+202.174.155.48/28  # AS4913  NET-CPRK - Speedcast Communications, Inc, US  [US]  [202.174.155.0/24]
+203.88.86.16/28  # AS4913  NET-CPRK - Speedcast Communications, Inc, US  [US]  [203.88.86.0/24]
+203.88.90.128/26  # AS4913  NET-CPRK - Speedcast Communications, Inc, US  [US]  [203.88.90.0/24]
+
+# === AS5065  BUNNY-COMMUNICATIONS-GLOBAL - Bunny Communications, US  (country: US) ===
+31.56.157.0/24  # AS5065  BUNNY-COMMUNICATIONS-GLOBAL - Bunny Communications, US  [US]  [31.56.157.0/24]
+31.56.200.0/22  # AS5065  BUNNY-COMMUNICATIONS-GLOBAL - Bunny Communications, US  [US]  [31.56.200.0/24]
+31.56.226.0/24  # AS5065  BUNNY-COMMUNICATIONS-GLOBAL - Bunny Communications, US  [US]  [31.56.226.0/24]
+
+# === AS5400  BT - British Telecommunications Limited, GB  (country: GB) ===
+206.73.194.64/26  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.0.0/16]
+206.73.206.0/24  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.0.0/16]
+206.73.227.192/27  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.0.0/16]
+206.73.228.128/26  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.0.0/16]
+206.73.228.64/26  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.0.0/16]
+206.73.244.144/28  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.0.0/16]
+206.73.60.64/27  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.48.0/20]
+206.73.62.0/26  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.48.0/20]
+206.73.80.64/27  # AS5400  BT - British Telecommunications Limited, GB  [GB]  [206.73.80.0/20]
+
+# === AS6453  AS6453 - TATA COMMUNICATIONS (AMERICA) INC, US  (country: US) ===
+120.29.210.128/25  # AS6453  AS6453 - TATA COMMUNICATIONS (AMERICA) INC, US  [US]  [120.29.192.0/19]
+120.29.223.144/28  # AS6453  AS6453 - TATA COMMUNICATIONS (AMERICA) INC, US  [US]  [120.29.192.0/19]
+
+# === AS6642  DATASPHERE-TRANSIT - Hyper Group Network LLC, US  (country: US) ===
+31.58.86.0/24  # AS6642  DATASPHERE-TRANSIT - Hyper Group Network LLC, US  [US]  [31.58.86.0/24]
+
+# === AS7473  SINGTEL-AS-AP - Singapore Telecommunications Ltd, SG  (country: SG) ===
+202.160.254.0/24  # AS7473  SINGTEL-AS-AP - Singapore Telecommunications Ltd, SG  [SG]  [202.160.224.0/19]
+
+# === AS8075  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US  (country: US) ===
+48.193.0.0/16  # AS8075  MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US  [US]  [48.192.0.0/12]
+
+# === AS9009  M247 - M247 Europe SRL, RO  (country: RO) ===
+103.115.185.0/24  # AS9009  M247 - M247 Europe SRL, RO  [RO]  [103.115.185.0/24]
+146.70.14.0/24  # AS9009  M247 - M247 Europe SRL, RO  [RO]  [146.70.14.0/24]
+31.56.207.0/24  # AS9009  M247 - M247 Europe SRL, RO  [RO]  [31.56.207.0/24]
+31.59.1.0/24  # AS9009  M247 - M247 Europe SRL, RO  [RO]  [31.59.1.0/24]
+31.59.3.0/24  # AS9009  M247 - M247 Europe SRL, RO  [RO]  [31.59.3.0/24]
+80.76.54.0/23  # AS9009  M247 - M247 Europe SRL, RO  [RO]  [80.76.52.0/22]
+
+# === AS9229  SPEEDCAST-AP - SPEEDCAST Limited, HK  (country: HK) ===
+203.88.82.144/28  # AS9229  SPEEDCAST-AP - SPEEDCAST Limited, HK  [HK]  [203.88.82.0/24]
+203.88.82.160/28  # AS9229  SPEEDCAST-AP - SPEEDCAST Limited, HK  [HK]  [203.88.82.0/24]
+203.88.82.192/27  # AS9229  SPEEDCAST-AP - SPEEDCAST Limited, HK  [HK]  [203.88.82.0/24]
+203.88.82.224/28  # AS9229  SPEEDCAST-AP - SPEEDCAST Limited, HK  [HK]  [203.88.82.0/24]
+203.88.82.48/28  # AS9229  SPEEDCAST-AP - SPEEDCAST Limited, HK  [HK]  [203.88.82.0/24]
+203.88.82.64/26  # AS9229  SPEEDCAST-AP - SPEEDCAST Limited, HK  [HK]  [203.88.82.0/24]
+
+# === AS9304  HUTCHISON-AS-AP - HGC Global Communications Limited, HK  (country: HK) ===
+114.134.81.0/24  # AS9304  HUTCHISON-AS-AP - HGC Global Communications Limited, HK  [HK]  [114.134.81.0/24]
+143.14.87.0/24  # AS9304  HUTCHISON-AS-AP - HGC Global Communications Limited, HK  [HK]  [143.14.87.0/24]
+
+# === AS9584  GENESIS-AP - Diyixian.com Limited, HK  (country: HK) ===
+152.104.40.0/24  # AS9584  GENESIS-AP - Diyixian.com Limited, HK  [HK]  [152.104.0.0/18]
+
+# === AS10099  UNICOM-Global - China Unicom Global, HK  (country: HK) ===
+162.219.82.0/25  # AS10099  UNICOM-Global - China Unicom Global, HK  [HK]  [162.219.82.0/24]
+
+# === AS12684  SES-LUX-AS - SES ASTRA S.A., LU  (country: LU) ===
+212.165.150.0/24  # AS12684  SES-LUX-AS - SES ASTRA S.A., LU  [LU]  [212.165.128.0/18]
+80.247.150.112/28  # AS12684  SES-LUX-AS - SES ASTRA S.A., LU  [LU]  [80.247.150.0/24]
+80.247.150.128/26  # AS12684  SES-LUX-AS - SES ASTRA S.A., LU  [LU]  [80.247.150.0/24]
+80.247.150.32/27  # AS12684  SES-LUX-AS - SES ASTRA S.A., LU  [LU]  [80.247.150.0/24]
+80.247.150.80/28  # AS12684  SES-LUX-AS - SES ASTRA S.A., LU  [LU]  [80.247.150.0/24]
+
+# === AS13150  CATON - CATO NETWORKS LTD, IL  (country: IL) ===
+140.82.200.0/24  # AS13150  CATON - CATO NETWORKS LTD, IL  [IL]  [140.82.200.0/24]
+
+# === AS13335  CLOUDFLARENET - Cloudflare, Inc., US  (country: US) ===
+45.196.29.0/24  # AS13335  CLOUDFLARENET - Cloudflare, Inc., US  [US]  [45.196.29.0/24]
+
+# === AS13768  COGECO-PEER1 - Aptum Technologies, CA  (country: CA) ===
+209.25.238.224/28  # AS13768  COGECO-PEER1 - Aptum Technologies, CA  [CA]  [209.25.232.0/21]
+216.65.52.128/25  # AS13768  COGECO-PEER1 - Aptum Technologies, CA  [CA]  [216.65.0.0/17]
+216.65.64.144/28  # AS13768  COGECO-PEER1 - Aptum Technologies, CA  [CA]  [216.65.0.0/17]
+64.77.44.192/27  # AS13768  COGECO-PEER1 - Aptum Technologies, CA  [CA]  [64.77.0.0/17]
+
+# === AS15695  Expereo - Expereo International BV, NL  (country: NL) ===
+45.122.159.0/24  # AS15695  Expereo - Expereo International BV, NL  [NL]  [45.122.159.0/24]
+
+# === AS15830  Equinix - Equinix (EMEA) Acquisition Enterprises B.V., NL  (country: NL) ===
+51.162.208.0/21  # AS15830  Equinix - Equinix (EMEA) Acquisition Enterprises B.V., NL  [NL]  [51.162.208.0/21]
+
+# === AS16276  OVH - OVH SAS, FR  (country: FR) ===
+139.99.112.112/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.19.48/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.26.224/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.30.16/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.31.80/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.6.128/27  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.6.80/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.80.144/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+139.99.94.224/28  # AS16276  OVH - OVH SAS, FR  [FR]  [139.99.0.0/17]
+148.113.40.0/24  # AS16276  OVH - OVH SAS, FR  [FR]  [148.113.0.0/18]
+149.56.173.48/28  # AS16276  OVH - OVH SAS, FR  [FR]  [149.56.0.0/16]
+149.56.246.240/28  # AS16276  OVH - OVH SAS, FR  [FR]  [149.56.0.0/16]
+149.56.89.224/27  # AS16276  OVH - OVH SAS, FR  [FR]  [149.56.0.0/16]
+15.235.128.192/26  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.129.0/24  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.130.112/28  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.133.96/28  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.151.96/28  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.153.64/27  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.158.0/24  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.171.192/26  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.191.0/24  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.128.0/17]
+15.235.38.128/26  # AS16276  OVH - OVH SAS, FR  [FR]  [15.235.0.0/17]
+167.114.18.192/27  # AS16276  OVH - OVH SAS, FR  [FR]  [167.114.0.0/17]
+192.99.228.176/28  # AS16276  OVH - OVH SAS, FR  [FR]  [192.99.0.0/16]
+51.161.123.240/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.161.0.0/17]
+51.161.23.224/27  # AS16276  OVH - OVH SAS, FR  [FR]  [51.161.0.0/17]
+51.161.24.32/27  # AS16276  OVH - OVH SAS, FR  [FR]  [51.161.0.0/17]
+51.222.67.128/27  # AS16276  OVH - OVH SAS, FR  [FR]  [51.222.0.0/16]
+51.222.71.176/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.222.0.0/16]
+51.79.130.128/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.134.128/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.139.0/24  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.151.128/27  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.151.48/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.151.64/27  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.153.208/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.153.96/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.155.176/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.189.128/26  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.192.0/26  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.192.240/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.196.192/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.198.0/24  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.211.128/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.211.32/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.246.96/28  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.252.96/27  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.128.0/17]
+51.79.8.64/27  # AS16276  OVH - OVH SAS, FR  [FR]  [51.79.0.0/17]
+54.39.126.192/27  # AS16276  OVH - OVH SAS, FR  [FR]  [54.39.0.0/16]
+54.39.45.16/28  # AS16276  OVH - OVH SAS, FR  [FR]  [54.39.0.0/16]
+
+# === AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  (country: SE) ===
+185.116.240.0/27  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.240.112/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.240.144/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.240.176/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.240.208/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.240.240/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.240.48/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.240.80/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.112/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.128/27  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.16/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.176/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.208/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.240/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.32/27  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.241.64/27  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.242.192/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.116.243.192/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.116.240.0/22]
+185.122.113.160/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.122.112.0/23]
+185.122.114.160/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.122.114.0/23]
+185.122.115.160/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.122.114.0/23]
+185.129.65.176/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.129.64.0/23]
+185.141.72.176/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.141.72.0/23]
+185.141.74.80/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.141.74.0/23]
+185.141.90.144/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.141.90.0/23]
+185.142.80.112/28  # AS16312  SURFSAFE-AS - Internet Vikings International AB, SE  [SE]  [185.142.80.0/23]
+
+# === AS16509  AMAZON-02 - Amazon.com, Inc., US  (country: US) ===
+104.148.22.192/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [104.148.0.0/17]
+104.148.23.0/25  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [104.148.0.0/17]
+104.148.25.0/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [104.148.0.0/17]
+107.179.100.64/27  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.100.96/28  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.101.0/28  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.120.64/27  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.121.64/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.35.240/28  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.46.64/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.66.0/24  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.88.0/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+107.179.92.0/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [107.179.0.0/17]
+108.136.0.0/15  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [108.136.0.0/15]
+141.163.224.0/20  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [141.163.224.0/24]
+15.232.0.0/16  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [15.232.0.0/16]
+151.186.185.0/24  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [151.186.185.0/24]
+16.78.0.0/15  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [16.78.0.0/16]
+23.247.1.0/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.10.224/27  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.10.64/27  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.45.192/27  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.46.128/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.46.64/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.64.0/23  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.66.192/26  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+23.247.80.0/23  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [23.247.0.0/17]
+3.5.36.0/23  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [3.5.36.0/24]
+3.5.38.0/24  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [3.5.38.0/24]
+31.59.79.0/24  # AS16509  AMAZON-02 - Amazon.com, Inc., US  [US]  [31.59.79.0/24]
+
+# === AS17552  TRUEONLINE-AS-AP - True Online, TH  (country: TH) ===
+202.176.128.0/24  # AS17552  TRUEONLINE-AS-AP - True Online, TH  [TH]  [202.176.128.0/19]
+
+# === AS18106  VIEWQWEST-SG-AP - Viewqwest Pte Ltd, SG  (country: SG) ===
+223.27.137.0/24  # AS18106  VIEWQWEST-SG-AP - Viewqwest Pte Ltd, SG  [SG]  [223.27.137.0/24]
+223.27.138.0/24  # AS18106  VIEWQWEST-SG-AP - Viewqwest Pte Ltd, SG  [SG]  [223.27.138.0/24]
+
+# === AS21769  AS-COLOAM - Colocation America Corporation, US  (country: US) ===
+216.183.243.0/24  # AS21769  AS-COLOAM - Colocation America Corporation, US  [US]  [216.183.224.0/19]
+
+# === AS21840  NET3 - WiredISP Inc., US  (country: US) ===
+102.165.45.0/24  # AS21840  NET3 - WiredISP Inc., US  [US]  [102.165.45.0/24]
+
+# === AS21859  ZEN-ECN - Zenlayer Inc, US  (country: US) ===
+103.21.138.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [103.21.138.0/24]
+122.10.253.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [122.10.253.0/24]
+156.59.104.0/22  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.104.0/22]
+156.59.116.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.116.0/24]
+156.59.160.0/22  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.160.0/22]
+156.59.172.0/23  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.172.0/24]
+156.59.192.0/23  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.192.0/23]
+156.59.210.0/23  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.210.0/23]
+156.59.240.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.240.0/24]
+156.59.244.0/23  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.244.0/23]
+156.59.248.0/23  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.248.0/23]
+156.59.56.0/22  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.56.0/22]
+156.59.76.0/22  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [156.59.76.0/22]
+178.83.18.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [178.83.18.0/24]
+43.243.195.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [43.243.195.0/24]
+82.22.196.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [82.22.196.0/24]
+89.106.23.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [89.106.23.0/24]
+94.229.215.0/24  # AS21859  ZEN-ECN - Zenlayer Inc, US  [US]  [94.229.215.0/24]
+
+# === AS22351  INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION, US  (country: US) ===
+216.139.184.192/27  # AS22351  INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION, US  [US]  [216.139.160.0/19]
+216.250.193.16/28  # AS22351  INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION, US  [US]  [216.250.192.0/19]
+216.250.193.96/27  # AS22351  INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION, US  [US]  [216.250.192.0/19]
+216.250.214.64/27  # AS22351  INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION, US  [US]  [216.250.192.0/19]
+
+# === AS22363  PHMGMT-AS1 - Powerhouse Management, Inc., US  (country: US) ===
+103.250.142.0/24  # AS22363  PHMGMT-AS1 - Powerhouse Management, Inc., US  [US]  [103.250.142.0/24]
+
+# === AS23470  RELIABLESITE - ReliableSite.Net LLC, US  (country: US) ===
+206.221.182.160/27  # AS23470  RELIABLESITE - ReliableSite.Net LLC, US  [US]  [206.221.182.0/24]
+45.58.119.128/26  # AS23470  RELIABLESITE - ReliableSite.Net LLC, US  [US]  [45.58.119.0/24]
+
+# === AS23764  CTGNet - CTGNet, HK  (country: HK) ===
+203.81.3.0/24  # AS23764  CTGNet - CTGNet, HK  [HK]  [203.81.3.0/24]
+
+# === AS24399  ABN-PEERING-AS-AP - Asia Broadcast Networks Peering AS, HK  (country: HK) ===
+202.133.9.208/28  # AS24399  ABN-PEERING-AS-AP - Asia Broadcast Networks Peering AS, HK  [HK]  [202.133.8.0/21]
+
+# === AS24429  Taobao - Zhejiang Taobao Network Co.,Ltd, CN  (country: CN) ===
+103.73.158.0/23  # AS24429  Taobao - Zhejiang Taobao Network Co.,Ltd, CN  [CN]  [103.73.158.0/24]
+47.89.121.0/24  # AS24429  Taobao - Zhejiang Taobao Network Co.,Ltd, CN  [CN]  [47.89.121.0/24]
+
+# === AS24482  SGGS-AS-AP - SG.GS, SG  (country: SG) ===
+124.6.48.0/23  # AS24482  SGGS-AS-AP - SG.GS, SG  [SG]  [124.6.48.0/23]
+45.129.229.0/24  # AS24482  SGGS-AS-AP - SG.GS, SG  [SG]  [45.129.229.0/24]
+
+# === AS27357  RACKSPACE - Rackspace Hosting, US  (country: US) ===
+173.203.160.176/28  # AS27357  RACKSPACE - Rackspace Hosting, US  [US]  [173.203.128.0/18]
+
+# === AS28753  LEASEWEB-DE-FRA-10 - Leaseweb Deutschland GmbH, DE  (country: DE) ===
+31.56.138.0/24  # AS28753  LEASEWEB-DE-FRA-10 - Leaseweb Deutschland GmbH, DE  [DE]  [31.56.138.0/24]
+31.58.24.0/24  # AS28753  LEASEWEB-DE-FRA-10 - Leaseweb Deutschland GmbH, DE  [DE]  [31.58.24.0/24]
+31.59.10.0/24  # AS28753  LEASEWEB-DE-FRA-10 - Leaseweb Deutschland GmbH, DE  [DE]  [31.59.10.0/24]
+
+# === AS29802  HVC-AS - HIVELOCITY, Inc., US  (country: US) ===
+145.223.0.0/24  # AS29802  HVC-AS - HIVELOCITY, Inc., US  [US]  [145.223.0.0/24]
+
+# === AS30133  ISC-F-AS - Internet Systems Consortium, Inc., US  (country: US) ===
+203.119.17.0/24  # AS30133  ISC-F-AS - Internet Systems Consortium, Inc., US  [US]  [203.119.17.0/24]
+
+# === AS30362  HPT-ASN - Hawaii Pacific Teleport LP, US  (country: US) ===
+69.88.22.192/27  # AS30362  HPT-ASN - Hawaii Pacific Teleport LP, US  [US]  [69.88.16.0/20]
+69.88.24.0/28  # AS30362  HPT-ASN - Hawaii Pacific Teleport LP, US  [US]  [69.88.24.0/21]
+69.88.7.32/27  # AS30362  HPT-ASN - Hawaii Pacific Teleport LP, US  [US]  [69.88.0.0/21]
+
+# === AS30633  LEASEWEB-USA-WDC - Leaseweb USA, Inc., US  (country: US) ===
+216.22.28.128/26  # AS30633  LEASEWEB-USA-WDC - Leaseweb USA, Inc., US  [US]  [216.22.0.0/18]
+
+# === AS31863  DACEN-2 - Centrilogic, Inc., US  (country: US) ===
+104.152.189.48/28  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [104.152.184.0/21]
+104.152.190.64/27  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [104.152.184.0/21]
+104.171.114.160/27  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [104.171.112.0/20]
+104.171.114.96/27  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [104.171.112.0/20]
+104.171.119.192/27  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [104.171.112.0/20]
+162.248.241.64/28  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [162.248.240.0/21]
+199.101.186.96/27  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [199.101.184.0/22]
+199.191.58.96/27  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [199.191.56.0/22]
+23.92.220.80/28  # AS31863  DACEN-2 - Centrilogic, Inc., US  [US]  [23.92.208.0/20]
+
+# === AS31898  ORACLE-BMC-31898 - Oracle Corporation, US  (country: US) ===
+43.245.96.0/23  # AS31898  ORACLE-BMC-31898 - Oracle Corporation, US  [US]  [43.245.96.0/23]
+64.110.85.32/27  # AS31898  ORACLE-BMC-31898 - Oracle Corporation, US  [US]  [64.110.64.0/19]
+
+# === AS32043  NEO-FIBER-01 - NeoFiber Communications inc., US  (country: US) ===
+156.230.16.0/20  # AS32043  NEO-FIBER-01 - NeoFiber Communications inc., US  [US]  [156.230.16.0/22]
+45.196.227.0/24  # AS32043  NEO-FIBER-01 - NeoFiber Communications inc., US  [US]  [45.196.227.0/24]
+45.198.228.0/23  # AS32043  NEO-FIBER-01 - NeoFiber Communications inc., US  [US]  [45.198.228.0/24]
+
+# === AS33070  RMH-14 - Rackspace Hosting, US  (country: US) ===
+209.163.249.0/25  # AS33070  RMH-14 - Rackspace Hosting, US  [US]  [209.163.248.0/22]
+209.61.130.128/28  # AS33070  RMH-14 - Rackspace Hosting, US  [US]  [209.61.128.0/19]
+72.3.155.48/28  # AS33070  RMH-14 - Rackspace Hosting, US  [US]  [72.3.128.0/17]
+
+# === AS34343  BIP-AS - Eweka Internet Services B.V., NL  (country: NL) ===
+81.171.72.224/28  # AS34343  BIP-AS - Eweka Internet Services B.V., NL  [NL]  [81.171.72.0/24]
+91.148.239.16/28  # AS34343  BIP-AS - Eweka Internet Services B.V., NL  [NL]  [91.148.239.0/24]
+
+# === AS35916  MULTA-ASN1 - MULTACOM CORPORATION, US  (country: US) ===
+66.154.125.128/25  # AS35916  MULTA-ASN1 - MULTACOM CORPORATION, US  [US]  [66.154.124.0/22]
+
+# === AS36352  AS-COLOCROSSING - HostPapa, US  (country: US) ===
+96.44.133.224/28  # AS36352  AS-COLOCROSSING - HostPapa, US  [US]  [96.44.133.0/24]
+96.44.182.32/28  # AS36352  AS-COLOCROSSING - HostPapa, US  [US]  [96.44.182.0/24]
+
+# === AS38001  NEWMEDIAEXPRESS-AS-AP - NewMedia Express Pte Ltd, SG  (country: SG) ===
+203.114.75.128/25  # AS38001  NEWMEDIAEXPRESS-AS-AP - NewMedia Express Pte Ltd, SG  [SG]  [203.114.75.0/24]
+
+# === AS38176  ABS-AS-AP - ABS - Agility Beyond Space, HK  (country: HK) ===
+113.208.64.0/23  # AS38176  ABS-AS-AP - ABS - Agility Beyond Space, HK  [HK]  [113.208.64.0/19]
+
+# === AS39944  TNA - Telecom North America Inc., US  (country: US) ===
+45.62.167.0/24  # AS39944  TNA - Telecom North America Inc., US  [US]  [45.62.167.0/24]
+
+# === AS40676  AS40676 - Psychz Networks, US  (country: US) ===
+172.84.186.0/23  # AS40676  AS40676 - Psychz Networks, US  [US]  [172.84.184.0/22]
+
+# === AS41095  IPTP - IPTP LTD, GB  (country: GB) ===
+156.227.245.0/24  # AS41095  IPTP - IPTP LTD, GB  [GB]  [156.227.245.0/24]
+
+# === AS42473  AS-ANEXIA - Anexia Cloud Solutions GmbH, AT  (country: AT) ===
+144.208.225.0/25  # AS42473  AS-ANEXIA - Anexia Cloud Solutions GmbH, AT  [AT]  [144.208.225.0/24]
+144.208.225.128/28  # AS42473  AS-ANEXIA - Anexia Cloud Solutions GmbH, AT  [AT]  [144.208.225.0/24]
+144.208.225.160/27  # AS42473  AS-ANEXIA - Anexia Cloud Solutions GmbH, AT  [AT]  [144.208.225.0/24]
+
+# === AS43009  INFOBIP-AS - Infobip Limited, GB  (country: GB) ===
+81.23.249.0/24  # AS43009  INFOBIP-AS - Infobip Limited, GB  [GB]  [81.23.249.0/24]
+
+# === AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  (country: PL) ===
+188.119.113.0/24  # AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  [PL]  [188.119.113.0/24]
+191.44.50.0/24  # AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  [PL]  [191.44.50.0/24]
+191.44.56.0/24  # AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  [PL]  [191.44.56.0/24]
+191.44.60.0/24  # AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  [PL]  [191.44.60.0/24]
+201.50.101.0/24  # AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  [PL]  [201.50.101.0/24]
+201.50.106.0/24  # AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  [PL]  [201.50.106.0/24]
+201.50.97.0/24  # AS43641  Sollutium-NL - SOLLUTIUM EU Sp z.o.o., PL  [PL]  [201.50.97.0/24]
+
+# === AS44444  Forcepoint-Cloud-AS - Forcepoint UK Limited, GB  (country: GB) ===
+157.167.34.0/24  # AS44444  Forcepoint-Cloud-AS - Forcepoint UK Limited, GB  [GB]  [157.167.34.0/24]
+
+# === AS44559  ITHOSTLINE - IT HOSTLINE LTD, CY  (country: CY) ===
+135.106.19.0/24  # AS44559  ITHOSTLINE - IT HOSTLINE LTD, CY  [CY]  [135.106.19.0/24]
+138.249.173.0/24  # AS44559  ITHOSTLINE - IT HOSTLINE LTD, CY  [CY]  [138.249.173.0/24]
+
+# === AS45102  ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN  (country: CN) ===
+147.139.128.0/17  # AS45102  ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN  [CN]  [147.139.128.0/18]
+149.129.192.0/18  # AS45102  ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN  [CN]  [149.129.192.0/19]
+
+# === AS45634  SPARKSTATION-SG-AP - 10 Science Park Road, SG  (country: SG) ===
+103.35.204.240/28  # AS45634  SPARKSTATION-SG-AP - 10 Science Park Road, SG  [SG]  [103.35.204.0/24]
+
+# === AS45671  AS45671-NET-AU - Wholesale Services Provider, AU  (country: AU) ===
+103.55.9.0/24  # AS45671  AS45671-NET-AU - Wholesale Services Provider, AU  [AU]  [103.55.9.0/24]
+
+# === AS46475  LIMESTONENETWORKS - Limestone Networks, Inc., US  (country: US) ===
+74.63.195.176/28  # AS46475  LIMESTONENETWORKS - Limestone Networks, Inc., US  [US]  [74.63.192.0/18]
+74.63.237.96/28  # AS46475  LIMESTONENETWORKS - Limestone Networks, Inc., US  [US]  [74.63.192.0/18]
+
+# === AS46573  VAULT-HOST - Vault Host, US  (country: US) ===
+23.228.94.96/27  # AS46573  VAULT-HOST - Vault Host, US  [US]  [23.228.94.0/24]
+23.228.96.128/25  # AS46573  VAULT-HOST - Vault Host, US  [US]  [23.228.96.0/24]
+23.228.96.64/26  # AS46573  VAULT-HOST - Vault Host, US  [US]  [23.228.96.0/24]
+
+# === AS47583  AS-HOSTINGER - Hostinger International Limited, CY  (country: CY) ===
+145.223.108.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [145.223.108.0/22]
+145.79.8.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [145.79.8.0/22]
+147.93.80.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [147.93.80.0/22]
+148.230.96.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [148.230.96.0/22]
+153.92.8.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [153.92.8.0/24]
+168.231.118.0/23  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [168.231.118.0/23]
+178.16.132.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [178.16.132.0/22]
+185.124.136.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [185.124.136.0/24]
+187.124.136.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [187.124.136.0/21]
+187.77.112.0/20  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [187.77.112.0/20]
+193.203.172.0/23  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [193.203.172.0/23]
+195.35.54.0/23  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [195.35.54.0/23]
+212.85.24.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [212.85.24.0/22]
+31.97.104.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [31.97.104.0/21]
+31.97.187.0/24  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [31.97.187.0/24]
+31.97.220.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [31.97.220.0/22]
+31.97.48.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [31.97.48.0/22]
+31.97.66.0/23  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [31.97.66.0/23]
+46.202.184.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [46.202.184.0/22]
+72.60.72.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [72.60.72.0/21]
+72.61.140.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [72.61.140.0/22]
+72.61.208.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [72.61.208.0/21]
+72.62.120.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [72.62.120.0/21]
+76.13.16.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [76.13.16.0/21]
+76.13.192.0/21  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [76.13.192.0/21]
+77.37.79.0/24  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [77.37.78.0/23]
+77.37.80.0/23  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [77.37.80.0/23]
+88.223.88.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [88.223.88.0/22]
+91.108.116.0/22  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [91.108.116.0/22]
+93.127.219.0/24  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [93.127.219.0/24]
+93.127.220.0/24  # AS47583  AS-HOSTINGER - Hostinger International Limited, CY  [CY]  [93.127.220.0/24]
+
+# === AS48031  XServerCloud - Ivanov Vitaliy Sergeevich, UA  (country: UA) ===
+78.136.248.0/23  # AS48031  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [78.136.248.0/24]
+91.232.8.0/22  # AS48031  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [91.232.8.0/24]
+91.245.239.0/24  # AS48031  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [91.245.239.0/24]
+
+# === AS48678  TR-PENTECH-AS - Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi, TR  (country: TR) ===
+31.58.216.0/22  # AS48678  TR-PENTECH-AS - Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi, TR  [TR]  [31.58.216.0/22]
+31.58.240.0/22  # AS48678  TR-PENTECH-AS - Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi, TR  [TR]  [31.58.240.0/22]
+
+# === AS51747  INTERNETBOLAGET - Internet Vikings International AB, SE  (country: SE) ===
+151.252.27.240/28  # AS51747  INTERNETBOLAGET - Internet Vikings International AB, SE  [SE]  [151.252.24.0/21]
+
+# === AS51964  ORANGE-BUSINESS-SERVICES-IPSN-ASN - ORANGE BUSINESS SERVICES U.S. Inc., US  (country: US) ===
+57.73.152.0/22  # AS51964  ORANGE-BUSINESS-SERVICES-IPSN-ASN - ORANGE BUSINESS SERVICES U.S. Inc., US  [US]  [57.73.152.0/22]
+
+# === AS53813  ZSCALER-INC - ZSCALER, INC., US  (country: US) ===
+159.254.98.0/24  # AS53813  ZSCALER-INC - ZSCALER, INC., US  [US]  [159.254.98.0/24]
+
+# === AS54994  ML-1432-54994 - Meteverse Limited., CA  (country: CA) ===
+138.113.116.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [138.113.116.0/24]
+138.113.230.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [138.113.230.0/24]
+138.113.250.0/23  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [138.113.250.0/24]
+140.150.10.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [140.150.10.0/24]
+140.150.16.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [140.150.16.0/24]
+140.150.8.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [140.150.8.0/24]
+148.253.61.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [148.253.61.0/24]
+148.253.62.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [148.253.62.0/24]
+157.185.182.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [157.185.182.0/24]
+163.171.101.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.101.0/24]
+163.171.102.0/23  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.102.0/24]
+163.171.104.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.104.0/24]
+163.171.163.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.163.0/24]
+163.171.165.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.165.0/24]
+163.171.167.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.167.0/24]
+163.171.172.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.172.0/24]
+163.171.220.0/24  # AS54994  ML-1432-54994 - Meteverse Limited., CA  [CA]  [163.171.220.0/24]
+
+# === AS56038  RACKCORP-AP - RackCorp, AU  (country: AU) ===
+103.69.75.0/24  # AS56038  RACKCORP-AP - RackCorp, AU  [AU]  [103.69.75.0/24]
+185.207.9.0/24  # AS56038  RACKCORP-AP - RackCorp, AU  [AU]  [185.207.9.0/24]
+
+# === AS56229  LNS8-MY - LightsUp Network Solution Sdn. Bhd., MY  (country: MY) ===
+203.18.197.0/24  # AS56229  LNS8-MY - LightsUp Network Solution Sdn. Bhd., MY  [MY]  [203.18.197.0/24]
+
+# === AS56286  IXTELECOM-MY - IX Telecom, MY  (country: MY) ===
+72.57.152.0/21  # AS56286  IXTELECOM-MY - IX Telecom, MY  [MY]  [72.57.152.0/24]
+
+# === AS56308  TELIN-NET-SG - TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD, SG  (country: SG) ===
+180.240.216.0/23  # AS56308  TELIN-NET-SG - TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD, SG  [SG]  [180.240.216.0/24]
+
+# === AS58061  SCALAXY-AS - Scalaxy B.V., LV  (country: LV) ===
+109.196.109.0/24  # AS58061  SCALAXY-AS - Scalaxy B.V., LV  [LV]  [109.196.109.0/24]
+146.19.152.0/24  # AS58061  SCALAXY-AS - Scalaxy B.V., LV  [LV]  [146.19.152.0/24]
+92.119.130.0/24  # AS58061  SCALAXY-AS - Scalaxy B.V., LV  [LV]  [92.119.130.0/24]
+
+# === AS60664  X-ION - x-ion GmbH, DE  (country: DE) ===
+158.220.65.0/24  # AS60664  X-ION - x-ion GmbH, DE  [DE]  [158.220.65.0/24]
+
+# === AS60781  LEASEWEB-NL-AMS-01 - LeaseWeb Netherlands B.V., NL  (country: NL) ===
+193.5.64.0/24  # AS60781  LEASEWEB-NL-AMS-01 - LeaseWeb Netherlands B.V., NL  [NL]  [193.5.64.0/24]
+
+# === AS62240  Clouvider - Clouvider Limited, GB  (country: GB) ===
+146.19.51.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [146.19.51.0/24]
+176.116.24.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [176.116.24.0/24]
+176.116.8.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [176.116.8.0/24]
+185.111.26.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [185.111.26.0/24]
+193.163.16.0/23  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [193.163.16.0/24]
+193.163.18.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [193.163.18.0/24]
+193.163.20.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [193.163.20.0/24]
+193.32.164.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [193.32.164.0/24]
+212.52.30.0/23  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [212.52.30.0/24]
+62.3.1.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [62.3.1.0/24]
+62.3.23.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [62.3.23.0/24]
+62.3.31.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [62.3.31.0/24]
+62.3.4.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [62.3.4.0/24]
+62.3.7.0/24  # AS62240  Clouvider - Clouvider Limited, GB  [GB]  [62.3.7.0/24]
+
+# === AS62395  elnic - Internet Vikings International AB, SE  (country: SE) ===
+185.151.10.80/28  # AS62395  elnic - Internet Vikings International AB, SE  [SE]  [185.151.8.0/22]
+185.151.8.112/28  # AS62395  elnic - Internet Vikings International AB, SE  [SE]  [185.151.8.0/22]
+
+# === AS62610  ZEN-DPS - Zenlayer Inc, US  (country: US) ===
+103.62.54.0/24  # AS62610  ZEN-DPS - Zenlayer Inc, US  [US]  [103.62.54.0/24]
+156.59.123.0/24  # AS62610  ZEN-DPS - Zenlayer Inc, US  [US]  [156.59.123.0/24]
+45.121.212.0/24  # AS62610  ZEN-DPS - Zenlayer Inc, US  [US]  [45.121.212.0/24]
+
+# === AS62904  AS62904 - Eonix Corporation, US  (country: US) ===
+173.232.70.224/27  # AS62904  AS62904 - Eonix Corporation, US  [US]  [173.232.70.0/24]
+
+# === AS63099  MADEALA TELECOM TECHNOLOGY - MADEALA TELECOM TECHNOLOGY INC, US  (country: US) ===
+154.83.11.0/24  # AS63099  MADEALA TELECOM TECHNOLOGY - MADEALA TELECOM TECHNOLOGY INC, US  [US]  [154.83.11.0/24]
+45.194.24.0/24  # AS63099  MADEALA TELECOM TECHNOLOGY - MADEALA TELECOM TECHNOLOGY INC, US  [US]  [45.194.24.0/24]
+45.198.226.0/24  # AS63099  MADEALA TELECOM TECHNOLOGY - MADEALA TELECOM TECHNOLOGY INC, US  [US]  [45.198.226.0/24]
+
+# === AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  (country: US) ===
+149.104.65.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [149.104.65.0/24]
+154.203.161.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [154.203.161.0/24]
+154.223.22.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [154.223.22.0/24]
+154.223.30.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [154.223.30.0/24]
+154.94.116.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [154.94.116.0/24]
+154.94.66.0/23  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [154.94.66.0/23]
+154.94.83.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [154.94.83.0/24]
+154.94.84.0/23  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [154.94.84.0/24]
+156.227.193.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [156.227.193.0/24]
+156.227.201.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [156.227.201.0/24]
+156.227.202.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [156.227.202.0/24]
+156.229.40.0/23  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [156.229.40.0/23]
+38.60.187.0/24  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [38.60.187.0/24]
+45.197.106.0/23  # AS63139  BEDGE-CO-LIMITED - BEDGE CO LIMITED, US  [US]  [45.197.106.0/24]
+
+# === AS63199  CDSC-AS1 - CDS Global Cloud Co., Ltd, US  (country: US) ===
+148.153.10.0/23  # AS63199  CDSC-AS1 - CDS Global Cloud Co., Ltd, US  [US]  [148.153.10.0/24]
+148.153.100.0/23  # AS63199  CDSC-AS1 - CDS Global Cloud Co., Ltd, US  [US]  [148.153.100.0/24]
+148.153.143.0/24  # AS63199  CDSC-AS1 - CDS Global Cloud Co., Ltd, US  [US]  [148.153.143.0/24]
+164.52.96.0/24  # AS63199  CDSC-AS1 - CDS Global Cloud Co., Ltd, US  [US]  [164.52.96.0/24]
+
+# === AS63473  HOSTHATCH - HostHatch, LLC, US  (country: US) ===
+31.56.232.0/24  # AS63473  HOSTHATCH - HostHatch, LLC, US  [US]  [31.56.232.0/24]
+
+# === AS63902  SHINETEL-AS-TW - SHINE TELECOM CO., LTD., TW  (country: TW) ===
+141.11.142.0/23  # AS63902  SHINETEL-AS-TW - SHINE TELECOM CO., LTD., TW  [TW]  [141.11.142.0/24]
+
+# === AS64078  STARFRAMEWORKCO - FLAT/RM 101A 1F, HK  (country: HK) ===
+59.152.47.224/27  # AS64078  STARFRAMEWORKCO - FLAT/RM 101A 1F, HK  [HK]  [59.152.47.0/24]
+
+# === AS64079  CTGL-IPX - China Telecom Global Limited, HK  (country: HK) ===
+103.211.192.0/23  # AS64079  CTGL-IPX - China Telecom Global Limited, HK  [HK]  [103.211.192.0/24]
+
+# === AS64096  BIH-Global - INTERNET HARBOR INTERNATIONAL CO.,LIMITED, HK  (country: HK) ===
+103.212.57.0/24  # AS64096  BIH-Global - INTERNET HARBOR INTERNATIONAL CO.,LIMITED, HK  [HK]  [103.212.57.0/24]
+
+# === AS132203  TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN  (country: CN) ===
+101.33.4.0/22  # AS132203  TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN  [CN]  [101.33.4.0/23]
+43.129.32.0/19  # AS132203  TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN  [CN]  [43.129.32.0/20]
+43.133.128.0/19  # AS132203  TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN  [CN]  [43.133.128.0/20]
+43.157.192.0/18  # AS132203  TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN  [CN]  [43.157.192.0/19]
+43.165.192.0/18  # AS132203  TENCENT-NET-AP-CN - Tencent Building, Kejizhongyi Avenue, CN  [CN]  [43.165.192.0/19]
+
+# === AS133125  PUBLICISGROUPE-AS-AP - PG Lion ReSources Aust Pty Ltd, AU  (country: AU) ===
+223.27.161.0/24  # AS133125  PUBLICISGROUPE-AS-AP - PG Lion ReSources Aust Pty Ltd, AU  [AU]  [223.27.161.0/24]
+
+# === AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  (country: IN) ===
+31.58.0.0/23  # AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  [IN]  [31.58.0.0/24]
+31.58.3.0/24  # AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  [IN]  [31.58.3.0/24]
+31.58.4.0/24  # AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  [IN]  [31.58.4.0/24]
+31.58.6.0/23  # AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  [IN]  [31.58.6.0/24]
+31.58.8.0/24  # AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  [IN]  [31.58.8.0/24]
+31.59.48.0/21  # AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  [IN]  [31.59.48.0/24]
+31.59.60.0/22  # AS133296  WEBWERKS-AS-IN - Web Werks India Pvt. Ltd., IN  [IN]  [31.59.60.0/24]
+
+# === AS133478  TENCENT-AS-AP - Tencent Cloud Computing (Beijing) Co., Ltd, CN  (country: CN) ===
+103.95.224.0/24  # AS133478  TENCENT-AS-AP - Tencent Cloud Computing (Beijing) Co., Ltd, CN  [CN]  [103.95.224.0/24]
+
+# === AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  (country: MY) ===
+103.38.20.0/22  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [103.38.20.0/24]
+137.59.80.0/22  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [137.59.80.0/24]
+159.117.140.0/22  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [159.117.140.0/24]
+208.66.236.0/22  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [208.66.236.0/24]
+208.81.116.0/23  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [208.81.116.0/24]
+43.242.108.0/22  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [43.242.108.0/24]
+72.35.248.0/22  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [72.35.248.0/24]
+74.114.48.0/22  # AS133847  ICT-AS-AP - Anpple Tech Enterprise, MY  [MY]  [74.114.48.0/22]
+
+# === AS134963  ASEPL-AS-AP - Alibaba Cloud (Singapore) Private Limited, SG  (country: SG) ===
+170.33.97.0/24  # AS134963  ASEPL-AS-AP - Alibaba Cloud (Singapore) Private Limited, SG  [SG]  [170.33.97.0/24]
+170.33.98.0/24  # AS134963  ASEPL-AS-AP - Alibaba Cloud (Singapore) Private Limited, SG  [SG]  [170.33.98.0/24]
+
+# === AS135377  UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK  (country: HK) ===
+123.58.194.0/24  # AS135377  UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK  [HK]  [123.58.194.0/24]
+152.32.152.0/23  # AS135377  UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK  [HK]  [152.32.152.0/24]
+165.154.150.0/23  # AS135377  UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK  [HK]  [165.154.150.0/24]
+165.154.222.0/24  # AS135377  UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK  [HK]  [165.154.222.0/24]
+165.154.48.0/23  # AS135377  UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED, HK  [HK]  [165.154.48.0/24]
+
+# === AS135391  AOFEI-HK - AOFEI DATA INTERNATIONAL COMPANY LIMITED, HK  (country: HK) ===
+157.119.235.0/24  # AS135391  AOFEI-HK - AOFEI DATA INTERNATIONAL COMPANY LIMITED, HK  [HK]  [157.119.235.0/24]
+61.29.252.0/23  # AS135391  AOFEI-HK - AOFEI DATA INTERNATIONAL COMPANY LIMITED, HK  [HK]  [61.29.252.0/24]
+
+# === AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG  (country: SG) ===
+202.5.112.0/22  # AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG  [SG]  [202.5.112.0/20]
+202.5.117.0/24  # AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG  [SG]  [202.5.112.0/20]
+202.5.118.0/23  # AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG  [SG]  [202.5.112.0/20]
+202.5.120.0/21  # AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG  [SG]  [202.5.112.0/20]
+203.27.96.0/24  # AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG  [SG]  [203.27.96.0/24]
+203.8.206.0/23  # AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG  [SG]  [203.8.206.0/24]
+
+# === AS136041  CONNECTPLUS-AS-AP - Singapore Telecom, ConnectPlus, SG  (country: SG) ===
+183.81.226.0/24  # AS136041  CONNECTPLUS-AS-AP - Singapore Telecom, ConnectPlus, SG  [SG]  [183.81.226.0/24]
+
+# === AS136258  ONEPROVIDER-AS - BrainStorm Network, Inc, CA  (country: CA) ===
+167.150.101.0/24  # AS136258  ONEPROVIDER-AS - BrainStorm Network, Inc, CA  [CA]  [167.150.101.0/24]
+
+# === AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  (country: HK) ===
+101.46.152.0/21  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [101.46.152.0/21]
+110.239.64.0/19  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [110.239.64.0/19]
+124.81.90.16/28  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [124.81.80.0/20]
+14.137.156.0/22  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [14.137.156.0/24]
+159.138.78.0/24  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [159.138.78.0/24]
+182.160.52.0/22  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [182.160.52.0/22]
+212.34.192.0/19  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [212.34.192.0/20]
+27.255.36.0/22  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [27.255.36.0/23]
+27.255.4.0/22  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [27.255.4.0/23]
+83.101.104.0/21  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [83.101.104.0/21]
+83.101.88.0/21  # AS136907  HWCLOUDS-AS-AP - HUAWEI CLOUDS, HK  [HK]  [83.101.88.0/24]
+
+# === AS137409  GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU  (country: AU) ===
+14.102.84.0/24  # AS137409  GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU  [AU]  [14.102.84.0/24]
+146.103.18.0/24  # AS137409  GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU  [AU]  [146.103.18.0/24]
+45.8.25.0/24  # AS137409  GSLNETWORKS-AS-AP - GSL Networks Pty LTD, AU  [AU]  [45.8.24.0/23]
+
+# === AS138608  CLOUDHOST-AS-AP - Cloud Host Pte Ltd, SG  (country: SG) ===
+103.187.146.0/23  # AS138608  CLOUDHOST-AS-AP - Cloud Host Pte Ltd, SG  [SG]  [103.187.146.0/24]
+103.37.124.0/24  # AS138608  CLOUDHOST-AS-AP - Cloud Host Pte Ltd, SG  [SG]  [103.37.124.0/24]
+103.56.82.0/24  # AS138608  CLOUDHOST-AS-AP - Cloud Host Pte Ltd, SG  [SG]  [103.56.82.0/24]
+
+# === AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  (country: HK) ===
+149.104.113.0/24  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [149.104.113.0/24]
+149.104.119.0/24  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [149.104.119.0/24]
+154.203.143.0/24  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [154.203.143.0/24]
+154.223.40.0/23  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [154.223.40.0/24]
+154.93.116.0/22  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [154.93.116.0/22]
+154.95.89.0/24  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [154.95.89.0/24]
+156.229.64.0/23  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [156.229.64.0/24]
+38.54.65.0/24  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [38.54.65.0/24]
+38.60.222.0/24  # AS138915  KAOPU-HK - Kaopu Cloud HK Limited, HK  [HK]  [38.60.222.0/24]
+
+# === AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  (country: SG) ===
+148.222.160.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [148.222.160.0/24]
+154.85.77.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [154.85.77.0/24]
+154.85.84.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [154.85.84.0/24]
+156.238.132.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [156.238.132.0/24]
+156.251.71.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [156.251.71.0/24]
+156.251.72.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [156.251.72.0/24]
+156.251.75.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [156.251.75.0/24]
+156.251.76.0/24  # AS139057  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [156.251.76.0/24]
+
+# === AS139341  ACE-AS-AP - ACE, SG  (country: SG) ===
+43.132.89.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.132.89.0/24]
+43.146.48.0/21  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.146.48.0/24]
+43.152.148.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.152.148.0/24]
+43.152.8.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.152.8.0/24]
+43.159.65.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.159.65.0/24]
+43.159.72.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.159.72.0/24]
+43.168.0.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.0.0/24]
+43.168.14.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.14.0/24]
+43.168.144.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.144.0/24]
+43.168.35.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.35.0/24]
+43.168.36.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.36.0/24]
+43.168.8.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.8.0/24]
+43.168.89.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.89.0/24]
+43.168.93.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.93.0/24]
+43.168.98.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.168.98.0/24]
+43.174.0.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.0.0/24]
+43.174.107.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.107.0/24]
+43.174.134.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.134.0/24]
+43.174.136.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.136.0/24]
+43.174.158.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.158.0/24]
+43.174.160.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.160.0/24]
+43.174.81.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.81.0/24]
+43.174.82.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.82.0/24]
+43.174.84.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.174.84.0/24]
+43.175.110.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.175.110.0/24]
+43.175.124.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.175.124.0/24]
+43.175.204.0/23  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.175.204.0/24]
+43.175.206.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.175.206.0/24]
+43.175.83.0/24  # AS139341  ACE-AS-AP - ACE, SG  [SG]  [43.175.83.0/24]
+
+# === AS140666  ADPL-AS-AP - ANY DIGITAL PTE. LTD., SG  (country: SG) ===
+212.212.68.0/23  # AS140666  ADPL-AS-AP - ANY DIGITAL PTE. LTD., SG  [SG]  [212.212.68.0/23]
+212.212.90.0/24  # AS140666  ADPL-AS-AP - ANY DIGITAL PTE. LTD., SG  [SG]  [212.212.90.0/24]
+212.212.97.0/24  # AS140666  ADPL-AS-AP - ANY DIGITAL PTE. LTD., SG  [SG]  [212.212.97.0/24]
+87.84.12.0/23  # AS140666  ADPL-AS-AP - ANY DIGITAL PTE. LTD., SG  [SG]  [87.84.12.0/23]
+87.84.162.0/23  # AS140666  ADPL-AS-AP - ANY DIGITAL PTE. LTD., SG  [SG]  [87.84.162.0/23]
+
+# === AS140952  STL-AS-AP - Strong Technology, LLC, US  (country: US) ===
+108.171.109.64/26  # AS140952  STL-AS-AP - Strong Technology, LLC, US  [US]  [108.171.109.0/24]
+
+# === AS141180  HIPL-AS-AP - HUAWEI INTERNATIONAL PTE. LTD., SG  (country: SG) ===
+87.119.7.0/24  # AS141180  HIPL-AS-AP - HUAWEI INTERNATIONAL PTE. LTD., SG  [SG]  [87.119.7.0/24]
+87.119.8.0/23  # AS141180  HIPL-AS-AP - HUAWEI INTERNATIONAL PTE. LTD., SG  [SG]  [87.119.8.0/24]
+
+# === AS142561  XTDEF-LIMITED-AS-AP - XTDEF Limited, US  (country: US) ===
+143.20.23.0/24  # AS142561  XTDEF-LIMITED-AS-AP - XTDEF Limited, US  [US]  [143.20.23.0/24]
+
+# === AS147049  PACKETHUBSA-AS-AP - PacketHub S.A., AU  (country: AU) ===
+185.213.83.0/24  # AS147049  PACKETHUBSA-AS-AP - PacketHub S.A., AU  [AU]  [185.213.83.0/24]
+187.40.232.0/24  # AS147049  PACKETHUBSA-AS-AP - PacketHub S.A., AU  [AU]  [187.40.232.0/24]
+
+# === AS149440  EVOXTSDNBHD-AS-AP - Evoxt Sdn. Bhd., MY  (country: MY) ===
+142.111.15.0/24  # AS149440  EVOXTSDNBHD-AS-AP - Evoxt Sdn. Bhd., MY  [MY]  [142.111.15.0/24]
+23.27.98.0/24  # AS149440  EVOXTSDNBHD-AS-AP - Evoxt Sdn. Bhd., MY  [MY]  [23.27.98.0/24]
+
+# === AS149981  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  (country: SG) ===
+154.85.89.0/24  # AS149981  ELD-AS-AP - Edgenext Legend Dynasty Pte. Ltd., SG  [SG]  [154.85.89.0/24]
+
+# === AS150436  BYTEPLUS-AS-AP - Byteplus Pte. Ltd., SG  (country: SG) ===
+101.47.96.0/20  # AS150436  BYTEPLUS-AS-AP - Byteplus Pte. Ltd., SG  [SG]  [101.47.96.0/24]
+163.7.0.0/18  # AS150436  BYTEPLUS-AS-AP - Byteplus Pte. Ltd., SG  [SG]  [163.7.0.0/21]
+163.7.192.0/19  # AS150436  BYTEPLUS-AS-AP - Byteplus Pte. Ltd., SG  [SG]  [163.7.192.0/21]
+69.5.0.0/20  # AS150436  BYTEPLUS-AS-AP - Byteplus Pte. Ltd., SG  [SG]  [69.5.0.0/21]
+
+# === AS151404  THREEGOTECHNOLOGY-AS-AP - 3GO TECHNOLOGY PTE. LTD., SG  (country: SG) ===
+103.253.229.0/24  # AS151404  THREEGOTECHNOLOGY-AS-AP - 3GO TECHNOLOGY PTE. LTD., SG  [SG]  [103.253.229.0/24]
+
+# === AS152179  GCNL-AS-AP - GLOBAL COMMUNICATION NETWORK LIMITED, HK  (country: HK) ===
+218.33.88.0/22  # AS152179  GCNL-AS-AP - GLOBAL COMMUNICATION NETWORK LIMITED, HK  [HK]  [218.33.88.0/22]
+
+# === AS154177  LIGHT4-AS-AP - LIGHT NODE LIMITED, HK  (country: HK) ===
+154.205.158.0/23  # AS154177  LIGHT4-AS-AP - LIGHT NODE LIMITED, HK  [HK]  [154.205.158.0/24]
+154.90.48.0/23  # AS154177  LIGHT4-AS-AP - LIGHT NODE LIMITED, HK  [HK]  [154.90.48.0/23]
+156.244.0.0/23  # AS154177  LIGHT4-AS-AP - LIGHT NODE LIMITED, HK  [HK]  [156.244.0.0/24]
+156.244.35.0/24  # AS154177  LIGHT4-AS-AP - LIGHT NODE LIMITED, HK  [HK]  [156.244.35.0/24]
+38.60.171.0/24  # AS154177  LIGHT4-AS-AP - LIGHT NODE LIMITED, HK  [HK]  [38.60.171.0/24]
+38.60.191.0/24  # AS154177  LIGHT4-AS-AP - LIGHT NODE LIMITED, HK  [HK]  [38.60.191.0/24]
+
+# === AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  (country: MH) ===
+103.112.144.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.112.144.0/23]
+103.125.104.0/22  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.125.104.0/22]
+103.131.28.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.131.28.0/24]
+103.137.38.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.137.38.0/23]
+103.147.80.0/22  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.147.80.0/23]
+103.160.18.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.160.18.0/23]
+103.164.68.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.164.68.0/23]
+103.166.178.0/24  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.166.178.0/24]
+103.169.143.0/24  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.169.143.0/24]
+103.174.180.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.174.180.0/23]
+103.175.38.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.175.38.0/23]
+103.20.166.0/23  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.20.166.0/23]
+103.211.196.0/24  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.211.196.0/24]
+103.96.52.0/22  # AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH  [MH]  [103.96.52.0/23]
+
+# === AS197537  WISDOM-CLOUD - WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD., SG  (country: SG) ===
+103.120.204.0/22  # AS197537  WISDOM-CLOUD - WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD., SG  [SG]  [103.120.204.0/24]
+103.148.242.0/23  # AS197537  WISDOM-CLOUD - WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD., SG  [SG]  [103.148.242.0/24]
+
+# === AS200017  Ecolando - Elisteka UAB, LT  (country: LT) ===
+102.129.210.0/24  # AS200017  Ecolando - Elisteka UAB, LT  [LT]  [102.129.210.0/24]
+109.176.24.0/24  # AS200017  Ecolando - Elisteka UAB, LT  [LT]  [109.176.24.0/24]
+185.58.22.0/24  # AS200017  Ecolando - Elisteka UAB, LT  [LT]  [185.58.22.0/24]
+45.132.99.0/24  # AS200017  Ecolando - Elisteka UAB, LT  [LT]  [45.132.99.0/24]
+45.140.195.0/24  # AS200017  Ecolando - Elisteka UAB, LT  [LT]  [45.140.195.0/24]
+45.94.239.0/24  # AS200017  Ecolando - Elisteka UAB, LT  [LT]  [45.94.239.0/24]
+88.80.134.0/24  # AS200017  Ecolando - Elisteka UAB, LT  [LT]  [88.80.134.0/24]
+
+# === AS201341  Centurion-Internet-services - trafficforce, UAB, LT  (country: LT) ===
+185.77.166.128/25  # AS201341  Centurion-Internet-services - trafficforce, UAB, LT  [LT]  [185.77.164.0/22]
+185.77.167.128/25  # AS201341  Centurion-Internet-services - trafficforce, UAB, LT  [LT]  [185.77.164.0/22]
+45.130.224.0/22  # AS201341  Centurion-Internet-services - trafficforce, UAB, LT  [LT]  [45.130.224.0/22]
+89.35.126.0/25  # AS201341  Centurion-Internet-services - trafficforce, UAB, LT  [LT]  [89.35.126.0/24]
+89.39.122.128/25  # AS201341  Centurion-Internet-services - trafficforce, UAB, LT  [LT]  [89.39.122.0/24]
+
+# === AS202036  EXTREME-COMM - EXTREME COMMUNICATIONS TECHNOLOGY LIMITED, HK  (country: HK) ===
+103.181.248.0/21  # AS202036  EXTREME-COMM - EXTREME COMMUNICATIONS TECHNOLOGY LIMITED, HK  [HK]  [103.181.248.0/24]
+
+# === AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  (country: UA) ===
+103.147.170.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [103.147.170.0/24]
+154.221.60.0/22  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [154.221.60.0/24]
+154.222.1.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [154.222.1.0/24]
+154.222.12.0/23  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [154.222.12.0/24]
+176.126.96.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [176.126.96.0/24]
+45.192.54.0/23  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.192.54.0/24]
+45.192.56.0/23  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.192.56.0/24]
+45.192.58.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.192.58.0/24]
+45.192.60.0/23  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.192.60.0/24]
+45.192.62.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.192.62.0/24]
+45.195.160.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.195.160.0/24]
+45.195.166.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.195.166.0/24]
+45.195.169.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.195.169.0/24]
+45.195.171.0/24  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.195.171.0/24]
+45.195.172.0/23  # AS202656  XServerCloud - Ivanov Vitaliy Sergeevich, UA  [UA]  [45.195.172.0/24]
+
+# === AS203020  HostRoyale - HostRoyale Technologies Pvt Ltd, IN  (country: IN) ===
+93.114.0.0/20  # AS203020  HostRoyale - HostRoyale Technologies Pvt Ltd, IN  [IN]  [93.114.0.0/24]
+
+# === AS205544  LEASEWEB-UK-LON-11 - Leaseweb UK Limited, GB  (country: GB) ===
+31.59.28.0/24  # AS205544  LEASEWEB-UK-LON-11 - Leaseweb UK Limited, GB  [GB]  [31.59.28.0/24]
+31.59.33.0/24  # AS205544  LEASEWEB-UK-LON-11 - Leaseweb UK Limited, GB  [GB]  [31.59.33.0/24]
+
+# === AS209372  WSTelecom_Customers - WS Telecom Inc, US  (country: US) ===
+178.171.22.0/24  # AS209372  WSTelecom_Customers - WS Telecom Inc, US  [US]  [178.171.22.0/24]
+89.184.29.0/24  # AS209372  WSTelecom_Customers - WS Telecom Inc, US  [US]  [89.184.29.0/24]
+
+# === AS209829  Test - Greenhost BV, NL  (country: NL) ===
+31.58.157.0/24  # AS209829  Test - Greenhost BV, NL  [NL]  [31.58.157.0/24]
+
+# === AS209854  Cyberzonehub - Cyberzone S.A., PA  (country: PA) ===
+93.185.162.0/24  # AS209854  Cyberzonehub - Cyberzone S.A., PA  [PA]  [93.185.162.0/24]
+
+# === AS210952  ECCO-IDNA - ECCO Sko A/S, DK  (country: DK) ===
+185.170.126.0/24  # AS210952  ECCO-IDNA - ECCO Sko A/S, DK  [DK]  [185.170.126.0/24]
+
+# === AS211373  Internet-1 - Simoresta UAB, LT  (country: LT) ===
+23.95.131.0/24  # AS211373  Internet-1 - Simoresta UAB, LT  [LT]  [23.95.131.0/24]
+31.6.46.0/24  # AS211373  Internet-1 - Simoresta UAB, LT  [LT]  [31.6.46.0/24]
+88.216.34.0/24  # AS211373  Internet-1 - Simoresta UAB, LT  [LT]  [88.216.34.0/24]
+89.190.151.0/24  # AS211373  Internet-1 - Simoresta UAB, LT  [LT]  [89.190.151.0/24]
+95.135.175.0/24  # AS211373  Internet-1 - Simoresta UAB, LT  [LT]  [95.135.175.0/24]
+
+# === AS211619  MAXKO - MAXKO d.o.o., HR  (country: HR) ===
+150.40.113.0/24  # AS211619  MAXKO - MAXKO d.o.o., HR  [HR]  [150.40.113.0/24]
+
+# === AS212238  CDNEXT - Datacamp Limited, GB  (country: GB) ===
+173.239.201.128/25  # AS212238  CDNEXT - Datacamp Limited, GB  [GB]  [173.239.201.0/24]
+192.177.36.0/23  # AS212238  CDNEXT - Datacamp Limited, GB  [GB]  [192.177.36.0/23]
+23.230.30.0/23  # AS212238  CDNEXT - Datacamp Limited, GB  [GB]  [23.230.30.0/23]
+31.56.234.0/23  # AS212238  CDNEXT - Datacamp Limited, GB  [GB]  [31.56.234.0/24]
+64.64.121.80/28  # AS212238  CDNEXT - Datacamp Limited, GB  [GB]  [64.64.121.0/24]
+69.91.182.0/24  # AS212238  CDNEXT - Datacamp Limited, GB  [GB]  [69.91.182.0/24]
+
+# === AS213476  LITLINK - Litlink UAB, LT  (country: LT) ===
+151.245.0.0/24  # AS213476  LITLINK - Litlink UAB, LT  [LT]  [151.245.0.0/24]
+
+# === AS213541  ws-telecom-sdn - WS Telecom Inc, US  (country: US) ===
+158.46.177.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [158.46.177.0/24]
+212.69.133.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [212.69.133.0/24]
+72.56.160.0/23  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [72.56.160.0/24]
+77.90.149.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [77.90.149.0/24]
+77.90.150.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [77.90.150.0/24]
+77.90.152.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [77.90.152.0/24]
+77.90.155.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [77.90.155.0/24]
+77.90.167.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [77.90.167.0/24]
+77.90.179.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [77.90.179.0/24]
+77.90.180.0/24  # AS213541  ws-telecom-sdn - WS Telecom Inc, US  [US]  [77.90.180.0/24]
+
+# === AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  (country: GB) ===
+154.82.178.0/23  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [154.82.178.0/23]
+156.230.136.0/21  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [156.230.136.0/21]
+178.93.27.0/24  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [178.93.27.0/24]
+178.93.9.0/24  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [178.93.9.0/24]
+178.94.12.0/24  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [178.94.12.0/24]
+178.94.239.0/24  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [178.94.239.0/24]
+178.94.240.0/24  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [178.94.240.0/24]
+202.155.24.0/22  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [202.155.24.0/24]
+202.155.96.0/21  # AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB  [GB]  [202.155.96.0/22]
+
+# === AS214456  SERVERSP-AS - ServerSP LLC, US  (country: US) ===
+178.93.170.0/24  # AS214456  SERVERSP-AS - ServerSP LLC, US  [US]  [178.93.170.0/24]
+212.189.117.0/24  # AS214456  SERVERSP-AS - ServerSP LLC, US  [US]  [212.189.117.0/24]
+95.135.245.0/24  # AS214456  SERVERSP-AS - ServerSP LLC, US  [US]  [95.135.245.0/24]
+
+# === AS215294  luminabroadband - Lumina broadband UAB, LT  (country: LT) ===
+178.83.52.0/24  # AS215294  luminabroadband - Lumina broadband UAB, LT  [LT]  [178.83.52.0/24]
+178.83.67.0/24  # AS215294  luminabroadband - Lumina broadband UAB, LT  [LT]  [178.83.67.0/24]
+92.112.157.0/24  # AS215294  luminabroadband - Lumina broadband UAB, LT  [LT]  [92.112.157.0/24]
+
+# === AS395793  ARISK-COMMUNICATIONS-INC - Arisk Communications inc., US  (country: US) ===
+95.134.131.0/24  # AS395793  ARISK-COMMUNICATIONS-INC - Arisk Communications inc., US  [US]  [95.134.131.0/24]
+95.134.202.0/24  # AS395793  ARISK-COMMUNICATIONS-INC - Arisk Communications inc., US  [US]  [95.134.202.0/24]
+
+# === AS396982  GOOGLE-CLOUD-PLATFORM - Google LLC, US  (country: US) ===
+103.157.55.0/24  # AS396982  GOOGLE-CLOUD-PLATFORM - Google LLC, US  [US]  [103.157.55.0/24]
+103.165.152.0/22  # AS396982  GOOGLE-CLOUD-PLATFORM - Google LLC, US  [US]  [103.165.152.0/24]
+
+# === AS397423  TIER-NET - Tier.Net Technologies LLC, US  (country: US) ===
+31.56.140.0/23  # AS397423  TIER-NET - Tier.Net Technologies LLC, US  [US]  [31.56.140.0/24]
+
+# === AS399073  TBB-ASN - BUNNY TECHNOLOGY LLC, US  (country: US) ===
+31.56.210.0/24  # AS399073  TBB-ASN - BUNNY TECHNOLOGY LLC, US  [US]  [31.56.210.0/24]
+31.56.212.0/24  # AS399073  TBB-ASN - BUNNY TECHNOLOGY LLC, US  [US]  [31.56.212.0/24]
+31.56.223.0/24  # AS399073  TBB-ASN - BUNNY TECHNOLOGY LLC, US  [US]  [31.56.223.0/24]
+
+# === AS401783  TOKALA-COMMUNICATIONS - TOKALA COMMUNICATIONS INC., US  (country: US) ===
+156.254.116.0/24  # AS401783  TOKALA-COMMUNICATIONS - TOKALA COMMUNICATIONS INC., US  [US]  [156.254.116.0/24]
+202.155.108.0/22  # AS401783  TOKALA-COMMUNICATIONS - TOKALA COMMUNICATIONS INC., US  [US]  [202.155.108.0/22]
+202.155.80.0/22  # AS401783  TOKALA-COMMUNICATIONS - TOKALA COMMUNICATIONS INC., US  [US]  [202.155.80.0/22]
+218.33.96.0/22  # AS401783  TOKALA-COMMUNICATIONS - TOKALA COMMUNICATIONS INC., US  [US]  [218.33.96.0/22]
+45.192.114.0/24  # AS401783  TOKALA-COMMUNICATIONS - TOKALA COMMUNICATIONS INC., US  [US]  [45.192.114.0/24]
