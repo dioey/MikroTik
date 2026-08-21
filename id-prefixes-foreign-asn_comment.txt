@@ -1,5 +1,5 @@
 # Indonesian geo-IP prefixes announced by NON-Indonesian ASNs
-# Generated: 2026-07-25 13:30:57
+# Generated: 2026-08-21 07:36:02
 # Source   : https://raw.githubusercontent.com/ipverse/geo-ip-blocks/refs/heads/master/country/id/id-ipv4.txt
 
 # === AS42  WOODYNET-1 - WoodyNet, Inc., US ===
@@ -97,6 +97,7 @@
 31.56.207.0/24
 31.59.1.0/24
 31.59.3.0/24
+45.198.85.0/24
 80.76.54.0/23
 103.115.185.0/24
 146.70.14.0/24
@@ -190,7 +191,6 @@
 139.99.80.144/28
 139.99.94.224/28
 139.99.112.112/28
-148.113.40.0/24
 149.56.89.224/27
 149.56.173.48/28
 149.56.246.240/28
@@ -264,9 +264,6 @@
 223.27.137.0/24
 223.27.138.0/24
 
-# === AS21769  AS-COLOAM - Colocation America Corporation, US ===
-216.183.243.0/24
-
 # === AS21840  NET3 - WiredISP Inc., US ===
 102.165.45.0/24
 
@@ -317,6 +314,12 @@
 45.129.229.0/24
 124.6.48.0/23
 
+# === AS25198  ZetServers - INTERKVM HOST SRL, RO ===
+102.212.6.0/24
+
+# === AS26042  FIBERSTATE - FiberState, LLC, US ===
+31.58.155.0/24
+
 # === AS27357  RACKSPACE - Rackspace Hosting, US ===
 173.203.160.176/28
 
@@ -324,9 +327,6 @@
 31.56.138.0/24
 31.58.24.0/24
 31.59.10.0/24
-
-# === AS29802  HVC-AS - HIVELOCITY, Inc., US ===
-145.223.0.0/24
 
 # === AS30133  ISC-F-AS - Internet Systems Consortium, Inc., US ===
 203.119.17.0/24
@@ -471,10 +471,6 @@
 91.232.8.0/22
 91.245.239.0/24
 
-# === AS48678  TR-PENTECH-AS - Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi, TR ===
-31.58.216.0/22
-31.58.240.0/22
-
 # === AS51747  INTERNETBOLAGET - Internet Vikings International AB, SE ===
 151.252.27.240/28
 
@@ -483,6 +479,9 @@
 
 # === AS53813  ZSCALER-INC - ZSCALER, INC., US ===
 159.254.98.0/24
+
+# === AS54702  QUICKMEG - QuickMeg Inc, US ===
+31.58.45.0/24
 
 # === AS54994  ML-1432-54994 - Meteverse Limited., CA ===
 138.113.116.0/24
@@ -526,6 +525,9 @@
 
 # === AS60781  LEASEWEB-NL-AMS-01 - LeaseWeb Netherlands B.V., NL ===
 193.5.64.0/24
+
+# === AS61817  AS61817 - Halley Telecom Comercio & Servico Ltda, BR ===
+38.172.142.0/23
 
 # === AS62240  Clouvider - Clouvider Limited, GB ===
 62.3.1.0/24
@@ -613,7 +615,7 @@
 31.58.4.0/24
 31.58.6.0/23
 31.58.8.0/24
-31.59.48.0/21
+31.59.48.0/22
 31.59.60.0/22
 
 # === AS133478  TENCENT-AS-AP - Tencent Cloud Computing (Beijing) Co., Ltd, CN ===
@@ -645,7 +647,9 @@
 157.119.235.0/24
 
 # === AS135409  KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG ===
-202.5.112.0/22
+103.103.62.0/24
+202.5.112.0/23
+202.5.114.0/24
 202.5.117.0/24
 202.5.118.0/23
 202.5.120.0/21
@@ -782,20 +786,11 @@
 156.244.35.0/24
 
 # === AS154410  MTL-AS-AP - Marshall Telecom Ltd, MH ===
-103.20.166.0/23
-103.96.52.0/22
 103.112.144.0/23
 103.125.104.0/22
-103.131.28.0/23
 103.137.38.0/23
 103.147.80.0/22
-103.160.18.0/23
-103.164.68.0/23
-103.166.178.0/24
-103.169.143.0/24
 103.174.180.0/23
-103.175.38.0/23
-103.211.196.0/24
 
 # === AS197537  WISDOM-CLOUD - WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD., SG ===
 103.120.204.0/22
@@ -844,6 +839,9 @@
 31.59.28.0/24
 31.59.33.0/24
 
+# === AS208185  NETGATE-SOLUTION-AS - Net Gate Telecom S.R.L., RO ===
+45.115.26.64/27
+
 # === AS209372  WSTelecom_Customers - WS Telecom Inc, US ===
 89.184.29.0/24
 178.171.22.0/24
@@ -890,6 +888,9 @@
 158.46.177.0/24
 212.69.133.0/24
 
+# === AS213607  WORLD-FIRST-COMMUNICATION-LTD - WORLD FIRST COMMUNICATION LTD, GB ===
+82.109.178.0/24
+
 # === AS214143  skydigital-telecom - SKYDIGITAL TELECOM LTD, GB ===
 154.82.178.0/23
 156.230.136.0/21
@@ -907,9 +908,13 @@
 212.189.117.0/24
 
 # === AS215294  luminabroadband - Lumina broadband UAB, LT ===
+31.59.54.0/23
 92.112.157.0/24
 178.83.52.0/24
 178.83.67.0/24
+
+# === AS215748  Westeros - Westeros Communications (THAILAND) CO., LTD., TH ===
+203.84.136.0/21
 
 # === AS395793  ARISK-COMMUNICATIONS-INC - Arisk Communications inc., US ===
 95.134.131.0/24
@@ -920,7 +925,7 @@
 103.165.152.0/22
 
 # === AS397423  TIER-NET - Tier.Net Technologies LLC, US ===
-31.56.140.0/23
+31.56.140.0/22
 
 # === AS399073  TBB-ASN - BUNNY TECHNOLOGY LLC, US ===
 31.56.210.0/24
