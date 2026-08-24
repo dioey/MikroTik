@@ -1,12 +1,11 @@
 # Indonesian geo-IP prefixes announced by NON-Indonesian ASNs
-# Generated: 2026-08-21 07:36:02
+# Generated: 2026-08-24 07:23:10
 # Source   : https://raw.githubusercontent.com/ipverse/geo-ip-blocks/refs/heads/master/country/id/id-ipv4.txt
 
 # === AS42  WOODYNET-1 - WoodyNet, Inc., US ===
 203.119.112.0/24
 
 # === AS174  COGENT-174 - Cogent Communications, LLC, US ===
-38.106.171.0/24
 149.104.84.0/23
 206.237.104.0/22
 
@@ -264,6 +263,9 @@
 223.27.137.0/24
 223.27.138.0/24
 
+# === AS18229  CTRLS-AS-IN - CtrlS, IN ===
+45.198.193.0/24
+
 # === AS21840  NET3 - WiredISP Inc., US ===
 102.165.45.0/24
 
@@ -458,6 +460,7 @@
 148.230.96.0/21
 153.92.8.0/21
 168.231.118.0/23
+177.202.240.0/20
 178.16.132.0/22
 185.124.136.0/22
 187.77.112.0/20
@@ -838,9 +841,6 @@
 # === AS205544  LEASEWEB-UK-LON-11 - Leaseweb UK Limited, GB ===
 31.59.28.0/24
 31.59.33.0/24
-
-# === AS208185  NETGATE-SOLUTION-AS - Net Gate Telecom S.R.L., RO ===
-45.115.26.64/27
 
 # === AS209372  WSTelecom_Customers - WS Telecom Inc, US ===
 89.184.29.0/24
